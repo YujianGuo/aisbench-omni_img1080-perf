@@ -1,0 +1,9 @@
+{
+  "dataset": "/data/share_space/g00807065/benchmark/omni_img1080_fixed_token_tests/datasets/omni_img1080_5img_200in.jsonl",
+  "images_per_request": 5,
+  "text_tokens_per_request": 200,
+  "tokenizer_path": "/data/Qwen3.5-35B-A3B",
+  "image_count": 5,
+  "request_count": 1,
+  "skipped_remainder_images": []
+}
